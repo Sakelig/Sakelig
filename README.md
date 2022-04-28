@@ -1,5 +1,5 @@
 ### Hi there 👋
-My goal is to become the best programmer i can be by learning from everyone
+My goal is to become the best programmer i can be
 
 - :link: [LinkedIn](https://www.linkedin.com/in/steffan-klausen-517187136/)
 
