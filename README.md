@@ -5,7 +5,7 @@ I'm 25 years old and studying Information Technology: Programming
 
 🖥 My goal is to become the best programmer i can be, so im always working on something to always be improving.
 
-🏗 I find structuring and making databases alot of fun, since working on finding the best solution for the given task can be very satisfying.
+🏗 I find structuring and making databases alot of fun, since working on finding the best solution for the given task is very satisfying.
 
 💪 I love working out with the same reason as programming, as something to always improv on.
 
