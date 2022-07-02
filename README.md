@@ -1,5 +1,5 @@
 # Hi, im Steffan 👋
-I'm 25 years old and studying Information Technology: Programming
+I'm 26 years old and studying Information Technology: Programming
 
 ---
 
