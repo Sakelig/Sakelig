@@ -7,7 +7,7 @@ I'm 26 years old and studying Information Technology: Programming
 
 🏗 I find structuring and making databases alot of fun, since working on finding the best solution for the given task is very satisfying.
 
-💪 I love working out with the same reason as programming, as something to always improv on.
+💪 I love working out with the same reason as programming, as something to always improve on.
 
 🍺🍔🥙 Otherwise i enjoy being out with friends and eating all kind of food 🌮🍩🥞
 
