@@ -1,5 +1,6 @@
 # Hi, im Steffan 👋🐸
-I'm 26 years old and studying Information Technology: Programming
+I'm 27 years old
+Bachelor in Programming
 
 ---
 
