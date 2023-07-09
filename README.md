@@ -1,5 +1,5 @@
 # Hi, im Steffan 👋🐸
-I'm 27 years old
+I'm 27 years old,
 Bachelor in Programming
 
 ---
