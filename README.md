@@ -6,7 +6,7 @@ Bachelor in Programming
 
 🖥 My goal is to become the best programmer i can be, so im always working on something to always be improving.
 
-🏗 I find structuring and making databases alot of fun, since working on finding the best solution for the given task is very satisfying.
+🏗 I enjoy making all sort of stuff for twitch streamers from custom chats, to interactive overlays and idle screens.
 
 💪 I love working out with the same reason as programming, as something to always improve on.
 
